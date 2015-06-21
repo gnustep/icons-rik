@@ -1,0 +1,15 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "293 286 430 426 0 0  1440 874 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/Desktop/xbmc.app/Resources"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    viewtype = Icon;
+}

@@ -1,0 +1,55 @@
+{
+    ApplicationDescription = "Document viewer";
+    ApplicationIcon = "evince.tiff";
+    ApplicationName = Evince;
+    ApplicationRelease = "0.5";
+    NSExecutable = Evince;
+    NSIcon = "evince.tiff";
+    NSRole = Viewer;
+    NSTypes = (
+	{
+	    NSDocumentClass = GSPdfDocument;
+	    NSHumanReadableName = NSPostScriptPboardType;
+	    NSIcon = "FileIcon_ps.tiff";
+	    NSName = PS;
+	    NSRole = Viewer;
+	    NSUnixExtensions = (
+		ps,
+		PS
+	    );
+	},
+	{
+	    NSDocumentClass = GSPdfDocument;
+	    NSHumanReadableName = NSPostScriptPboardType;
+	    NSIcon = "image-x-eps.tiff";
+	    NSName = EPS;
+	    NSRole = Viewer;
+	    NSUnixExtensions = (
+		eps,
+		EPS
+	    );
+	},
+	{
+	    NSDocumentClass = GSPdfDocument;
+	    NSHumanReadableName = NSPDFPboardType;
+	    NSIcon = "FileIcon_ai.tiff";
+	    NSName = PDF;
+	    NSRole = Viewer;
+	    NSUnixExtensions = (
+		ai,
+		AI
+	    );
+	},
+	{
+	    NSDocumentClass = GSPdfDocument;
+	    NSHumanReadableName = NSPDFPboardType;
+	    NSIcon = "FileIcon_pdf.tiff";
+	    NSName = PDF;
+	    NSRole = Viewer;
+	    NSUnixExtensions = (
+		pdf,
+		PDF
+	    );
+	}
+    );
+}

@@ -1,0 +1,57 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "362 36 428 878 0 0  1280 1002 ";
+    "hligh_table_col" = <*I0>;
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_aiff.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_flac.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_genericSound.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_m4a.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_midi.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_mp3.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_mpc.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_ogg.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_playlist.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_psd.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_wav.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/FileIcon_wma.tiff",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/Resources",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/rhythmbox",
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/Rhythmbox.app/rhythmbox.tiff"
+    );
+    "list_view_columns" = {
+	0 = {
+	    identifier = <*I0>;
+	    minwidth = <*R80>;
+	    position = <*I0>;
+	    width = <*R227>;
+	};
+	1 = {
+	    identifier = <*I1>;
+	    minwidth = <*R80>;
+	    position = <*I3>;
+	    width = <*R268>;
+	};
+	2 = {
+	    identifier = <*I2>;
+	    minwidth = <*R80>;
+	    position = <*I1>;
+	    width = <*R90>;
+	};
+	3 = {
+	    identifier = <*I3>;
+	    minwidth = <*R50>;
+	    position = <*I2>;
+	    width = <*R50>;
+	};
+    };
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    spatial = <*BN>;
+    viewtype = List;
+}

@@ -1,0 +1,59 @@
+{
+  NSExecutable = "eog";
+  NSIcon = "eog.tiff";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "gif" );
+      NSIcon = "FileIcon_gif.tiff";
+    },
+    {
+      NSUnixExtensions = ( "jpeg", "jpg" );
+      NSIcon = "FileIcon_jpg.tiff";
+    },
+    {
+      NSUnixExtensions = ( "png" );
+      NSIcon = "FileIcon_png.tiff";
+    },
+    {
+      NSUnixExtensions = ( "tga" );
+      NSIcon = "FileIcon_tga.tiff";
+    },
+    {
+      NSUnixExtensions = ( "tiff", "tif" );
+      NSIcon = "FileIcon_tiff.tiff";
+    },
+    {
+      NSUnixExtensions = ( "xcf" );
+      NSIcon = "FileIcon_xcf.tiff";
+    },        
+    {
+      NSUnixExtensions = ( "xpm" );
+      NSIcon = "FileIcon_xpm.tiff";
+    },
+    {
+      NSUnixExtensions = ( "xbm" );
+      NSIcon = "FileIcon_xbm.tiff";
+    },
+    {
+      NSUnixExtensions = ( "wmf", "pnm", "bmp", "psp", "raw", "sgi", "xwd" );
+      NSIcon = "genericImage.tiff";
+    },
+    {
+      NSUnixExtensions = ( "bmp" );
+      NSIcon = "FileIcon_bmp.tiff";
+    },
+    {
+      NSUnixExtensions = ( "ico" );
+      NSIcon = "FileIcon_ico.tiff";
+    },
+    { 
+      NSUnixExtensions = ( "psd" );
+      NSIcon = "FileIcon_psd.tiff";
+    },
+    { 
+      NSUnixExtensions = ( "svg" );
+      NSIcon = "FileIcon_svg.tiff";
+    },
+  );
+}

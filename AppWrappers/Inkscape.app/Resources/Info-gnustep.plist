@@ -1,0 +1,28 @@
+{
+    NSExecutable = inkscape;
+    NSIcon = "inkscape.tiff";
+    NSRole = "Editor";
+		XAppWrapper = YES;
+    NSTypes = (
+            {
+              NSUnixExtensions = ( "svg" );
+              NSIcon = "FileIcon_svg.tiff";
+            },
+	    {
+              NSUnixExtensions = ( "pdf" );
+              NSIcon = "FileIcon_pdf.tiff";
+            },
+   	    {
+     	      NSUnixExtensions = ( "ps" );
+      	      NSIcon = "FileIcon_ps.tiff";
+    	    },
+	    {
+     	      NSUnixExtensions = ( "eps" );
+      	      NSIcon = "FileIcon_eps.tiff";
+    	    },
+	    {
+     	      NSUnixExtensions = ( "ai" );
+      	      NSIcon = "FileIcon_ai.tiff";
+    	    },
+    );
+}

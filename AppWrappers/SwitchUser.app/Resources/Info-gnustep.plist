@@ -1,0 +1,8 @@
+{
+  NSExecutable = "User";
+  NSIcon = "User.tiff";
+  NSRole = "Tool";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}

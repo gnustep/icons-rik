@@ -1,0 +1,12 @@
+{
+  NSExecutable = "Carmetal";
+  NSIcon = "Carmetal.tiff";
+  NSRole = "Editor";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( ".zir" );
+      NSIcon = "FileIcon_Carmetal.tiff";
+    }
+  );
+}

@@ -1,0 +1,15 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "130 291 591 350 0 0  1280 998 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/GNUstep/Applications/Evince.app/Resources"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    viewtype = Icon;
+}

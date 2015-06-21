@@ -1,0 +1,15 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "122 196 591 802 0 0  1280 998 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/GNUstep/Applications/Inkscape.app/Resources"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    viewtype = Icon;
+}

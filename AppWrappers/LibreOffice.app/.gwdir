@@ -1,0 +1,15 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "313 239 645 539 0 0  1280 778 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/Desktop/RikIcones-0.1/AppWrappers/LibreOffice.app/Resources"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    viewtype = Icon;
+}

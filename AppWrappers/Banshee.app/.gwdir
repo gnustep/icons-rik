@@ -1,0 +1,16 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "82 201 430 641 0 0  1440 878 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/GNUstep/Applications/Banshee.app"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    spatial = <*BN>;
+    viewtype = Icon;
+}

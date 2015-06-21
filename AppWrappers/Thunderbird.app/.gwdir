@@ -1,0 +1,13 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "336 -47 394 874 0 0  1280 998 ";
+    lastselection = (
+	"/home/bertrand/GNUstep/Applications/Thunderbird.app/Resources/Info-gnustep.plist"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R77>;
+    singlenode = <*BN>;
+    spatial = <*BN>;
+    viewtype = Browser;
+}

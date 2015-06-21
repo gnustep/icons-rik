@@ -1,0 +1,28 @@
+{
+  NSExecutable = "libreoffice";
+  NSRole = "Editor";
+  NSIcon = "LibreOffice.tiff";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "odt" );
+      NSIcon = "office-document.tiff";
+    },
+    {
+      NSUnixExtensions = ( "ods" );
+      NSIcon = "office-spreadsheet.tiff";
+    },
+    {
+      NSUnixExtensions = ( "odp" );
+      NSIcon = "office-presentation.tiff";
+    },
+    {
+      NSUnixExtensions = ( "html", "htm", "xhtml" );
+      NSIcon = "FileIcon_.html.tiff";
+    },
+    {
+      NSUnixExtensions = ( "doc");
+      NSIcon = "office-document.tiff";
+    }
+  );
+}

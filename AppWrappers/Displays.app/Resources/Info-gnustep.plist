@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Displays";
+  NSIcon = "Displays.tiff";
+  NSRole = "Tool";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}

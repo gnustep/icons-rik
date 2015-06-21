@@ -1,0 +1,17 @@
+{
+  NSExecutable = "tuxguitar";
+  NSIcon = "tuxguitar.tiff";
+  NSRole = "Editor";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "tg" );
+      NSIcon = "FileIcon_tuxguitar.tiff";
+    },
+    {
+      NSUnixExtensions = ( "gp3", "gp4", "gp5" );
+      NSIcon = "FileIcon_guitarpro.tiff";
+    },
+
+  );
+}

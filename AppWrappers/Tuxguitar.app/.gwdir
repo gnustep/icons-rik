@@ -1,0 +1,43 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "293 299 430 575 0 0  1440 874 ";
+    "hligh_table_col" = <*I0>;
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/GNUstep/Applications/Tuxguitar.app/Resources/Info-gnustep.plist"
+    );
+    "list_view_columns" = {
+	0 = {
+	    identifier = <*I0>;
+	    minwidth = <*R80>;
+	    position = <*I0>;
+	    width = <*R246>;
+	};
+	1 = {
+	    identifier = <*I1>;
+	    minwidth = <*R80>;
+	    position = <*I3>;
+	    width = <*R276>;
+	};
+	2 = {
+	    identifier = <*I2>;
+	    minwidth = <*R80>;
+	    position = <*I1>;
+	    width = <*R90>;
+	};
+	3 = {
+	    identifier = <*I3>;
+	    minwidth = <*R50>;
+	    position = <*I2>;
+	    width = <*R50>;
+	};
+    };
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    spatial = <*BN>;
+    viewtype = List;
+}

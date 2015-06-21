@@ -1,0 +1,41 @@
+{
+  NSExecutable = "Emacs";
+  NSRole = "Editor";
+  NSIcon = "emacs.tiff";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "txt" );
+      NSIcon = "FileIcon_genericText.tiff";
+    },
+    {
+      NSUnixExtensions = ( "plist" );
+      NSIcon = "FileIcon_plist.tiff";
+    },
+    {
+      NSUnixExtensions = ( "sh", "csh", "bash" );
+      NSIcon = "FileIcon_sh.tiff";
+    },
+
+    {
+      NSUnixExtensions = ( "html", "htm", "xhtml" );
+      NSIcon = "FileIcon_html.tiff";
+    },
+    {
+      NSUnixExtensions = ( c );
+      NSIcon = "FileIcon_c.tiff";
+    },
+    {
+      NSUnixExtensions = ( "h" );
+      NSIcon = "FileIcon_h.tiff";
+    },
+    {
+      NSUnixExtensions = ( cc, cpp, c++ , cxx );
+      NSIcon = "FileIcon_c++.tiff";
+    },
+    {
+      NSUnixExtensions = ( m, mm );
+      NSIcon = "FileIcon_objc.tiff";
+    }
+  );
+}

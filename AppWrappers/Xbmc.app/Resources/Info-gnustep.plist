@@ -1,0 +1,8 @@
+{
+  NSExecutable = "xbmc";
+  NSIcon = "Xbmc.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}

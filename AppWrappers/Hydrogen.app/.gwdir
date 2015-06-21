@@ -1,0 +1,16 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "614 85 430 575 0 0  1440 874 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/Desktop/R\U00E9pertoire personnel/GNUstep/Applications/Hydrogen.app/FileIcon_hydrogen.tiff"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R2>;
+    singlenode = <*BY>;
+    spatial = <*BN>;
+    viewtype = Icon;
+}

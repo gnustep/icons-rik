@@ -1,0 +1,16 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "428 329 591 575 0 0  1280 998 ";
+    iconposition = <*I5>;
+    iconsize = <*I48>;
+    labeltxtsize = <*I12>;
+    lastselection = (
+	"/home/bertrand/Desktop/QJackctl.app"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R77>;
+    singlenode = <*BY>;
+    spatial = <*BN>;
+    viewtype = Icon;
+}

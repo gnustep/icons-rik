@@ -1,0 +1,14 @@
+#!/bin/sh
+# Usage: libreoffice [ -GSFilePath file ]
+# simple GNUstep launch script for LibreOffice
+#
+
+APP=libreoffice
+
+if [ $# -eq 2 ] ; then
+  $APP "$2" &
+else
+  $APP &
+fi
+
+

@@ -1,0 +1,12 @@
+{
+  NSExecutable = "hydrogen";
+  NSIcon = "hydrogen.tiff";
+  NSRole = "Editor";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "h2song" );
+      NSIcon = "FileIcon_hydrogen.tiff";
+    }
+  );
+}

@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Bleachbit";
+  NSIcon = "Bleachbit.tiff";
+  NSRole = "Tool";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}
