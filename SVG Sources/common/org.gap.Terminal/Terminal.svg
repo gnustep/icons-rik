@@ -1010,8 +1010,8 @@
   <sodipodi:namedview
      id="base"
      showgrid="false"
-     inkscape:zoom="0.67285156"
-     inkscape:cx="510.51379"
+     inkscape:zoom="0.4757779"
+     inkscape:cx="358.37653"
      inkscape:cy="512"
      inkscape:window-width="1280"
      inkscape:window-height="930"
@@ -1060,19 +1060,30 @@
          id="rect5285"
          style="fill:url(#linearGradient5435);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.72657311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1" />
       <text
-         transform="scale(0.9533034,1.048984)"
+         transform="scale(0.95330339,1.048984)"
          sodipodi:linespacing="125%"
          id="text5571"
          y="369.21924"
-         x="233.66495"
+         x="275.62421"
          style="font-size:33.55942154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.94520551;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:223.72947693px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:San Francisco Display;-inkscape-font-specification:San Francisco Display Bold"
            y="369.21924"
-           x="233.66495"
+           x="275.62421"
            id="tspan5573"
-           sodipodi:role="line">&gt;</tspan></text>
+           sodipodi:role="line">&gt;_</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="1290.693"
+       y="-60.539654"
+       id="text3177"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3179"
+         x="1298.9254"
+         y="-60.539654">5</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

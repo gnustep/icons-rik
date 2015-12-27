@@ -14,10 +14,10 @@
    sodipodi:version="0.31"
    width="1024"
    height="1024"
-   sodipodi:docname="Terminal.svg"
+   sodipodi:docname="Terminal_with_Rik_logo.svg"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/Tiff48/AppIcons/Terminal.png"
+   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/Tiff48/common/org.gap.Terminal/Terminal_with_Rik_Logo.png"
    inkscape:export-xdpi="71.982422"
    inkscape:export-ydpi="71.982422"
    enable-background="new">
@@ -1010,15 +1010,15 @@
   <sodipodi:namedview
      id="base"
      showgrid="false"
-     inkscape:zoom="0.67285156"
-     inkscape:cx="510.51379"
+     inkscape:zoom="0.4757779"
+     inkscape:cx="356.27471"
      inkscape:cy="512"
      inkscape:window-width="1280"
      inkscape:window-height="930"
      inkscape:window-x="1"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -1060,19 +1060,30 @@
          id="rect5285"
          style="fill:url(#linearGradient5435);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.72657311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1" />
       <text
-         transform="scale(0.9533034,1.048984)"
+         transform="scale(0.95330339,1.048984)"
          sodipodi:linespacing="125%"
          id="text5571"
          y="369.21924"
-         x="233.66495"
+         x="275.62421"
          style="font-size:33.55942154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.94520551;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
            style="font-size:223.72947693px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:San Francisco Display;-inkscape-font-specification:San Francisco Display Bold"
            y="369.21924"
-           x="233.66495"
+           x="275.62421"
            id="tspan5573"
-           sodipodi:role="line">&gt;</tspan></text>
+           sodipodi:role="line">&gt;_</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="1290.693"
+       y="-60.539654"
+       id="text3177"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3179"
+         x="1298.9254"
+         y="-60.539654">5</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1081,11 +1092,11 @@
      style="opacity:0.77448276;display:inline">
     <g
        id="g4920"
-       transform="matrix(0.34034835,0,0,0.34117031,552.0299,474.84369)"
+       transform="matrix(0.34034835,0,0,0.34117031,525.27809,427.57809)"
        style="filter:url(#filter5357)">
       <path
          transform="matrix(1.1377213,0,0,1.1377213,233.29666,256.12631)"
-         d="m 675.37517,225.58078 c 0,237.08869 -192.19836,429.28705 -429.28705,429.28705 -237.0886906,0 -429.28705,-192.19836 -429.28705,-429.28705 0,-237.08869 192.1983594,-429.28705 429.28705,-429.28705 237.08869,0 429.28705,192.19836 429.28705,429.28705 z"
+         d="m 675.37517,225.58078 a 429.28705,429.28705 0 1 1 -858.5741,0 429.28705,429.28705 0 1 1 858.5741,0 z"
          sodipodi:ry="429.28705"
          sodipodi:rx="429.28705"
          sodipodi:cy="225.58078"
