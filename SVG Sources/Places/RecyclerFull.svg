@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Recycler_full.svg"
-   inkscape:export-filename="/home/bertrand/Bureau/RikIcones-0.1/Tiff48/Places/Recycler.png"
-   inkscape:export-xdpi="71.982422"
-   inkscape:export-ydpi="71.982422"
+   sodipodi:docname="common_RecyclerFull.svg"
+   inkscape:export-filename="/home/bertrand/Bureau/RikIcons_git/RikIcons/PNG/common_RecyclerFull.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -3834,7 +3834,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

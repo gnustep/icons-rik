@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -1006,6 +1006,28 @@
        y1="535.77936"
        x2="460.98264"
        y2="544.69666" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5287"
+       id="linearGradient3512"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0664104,0,0,1.1734432,-34.002125,-88.802916)"
+       spreadMethod="reflect"
+       x1="690.75195"
+       y1="788.43536"
+       x2="464.03464"
+       y2="410.93759" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5563"
+       id="linearGradient3516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0664104,0,0,1.1734432,-34.002125,-88.802916)"
+       spreadMethod="reflect"
+       x1="931.59796"
+       y1="535.77936"
+       x2="460.98264"
+       y2="544.69666" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1024,55 +1046,52 @@
      id="layer1"
      inkscape:label="Terminal"
      style="opacity:1;filter:url(#filter5535)">
-    <g
-       id="g6372">
-      <rect
-         transform="matrix(1.0664104,0,0,1,-34.002125,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:2.16651177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1;filter:url(#filter6356)"
-         id="rect6294"
-         width="912.53412"
-         height="812.69714"
-         x="55.732941"
-         y="105.65143"
-         ry="86.279839" />
-      <rect
-         ry="52.650711"
-         y="105.65143"
-         x="25.432062"
-         height="812.69714"
-         width="973.1358"
-         id="rect4944"
-         style="fill:url(#linearGradient6370);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:2.23729491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1" />
-      <rect
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.85200572;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1"
-         id="rect5223"
-         width="821.52148"
-         height="659.66205"
-         x="101.23922"
-         y="182.16901"
-         ry="33.273186" />
-      <rect
-         ry="14.707502"
-         y="206.51901"
-         x="126.53802"
-         height="610.96198"
-         width="770.92389"
-         id="rect5285"
-         style="fill:url(#linearGradient5435);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.72657311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1" />
-      <text
-         transform="scale(0.95330339,1.048984)"
-         sodipodi:linespacing="125%"
-         id="text5571"
-         y="369.21924"
+    <rect
+       ry="86.279839"
+       y="105.65143"
+       x="55.732941"
+       height="812.69714"
+       width="912.53412"
+       id="rect6294"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:2.16651177;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1;filter:url(#filter6356)"
+       transform="matrix(1.0664104,0,0,1,-34.002125,0)" />
+    <rect
+       style="fill:url(#linearGradient3516);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:2.23729491;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1"
+       id="rect4944"
+       width="973.1358"
+       height="812.69714"
+       x="25.432062"
+       y="105.65143"
+       ry="52.650711" />
+    <rect
+       ry="33.273186"
+       y="182.16901"
+       x="101.23922"
+       height="659.66205"
+       width="821.52148"
+       id="rect5223"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.85200572;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1" />
+    <rect
+       style="fill:url(#linearGradient3512);fill-opacity:1;fill-rule:nonzero;stroke:#111010;stroke-width:1.72657311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20.1"
+       id="rect5285"
+       width="770.92389"
+       height="610.96198"
+       x="126.53802"
+       y="206.51901"
+       ry="14.707502" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.55942154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.94520551;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="275.62421"
+       y="369.21924"
+       id="text5571"
+       sodipodi:linespacing="125%"
+       transform="scale(0.95330339,1.048984)"><tspan
+         sodipodi:role="line"
+         id="tspan5573"
          x="275.62421"
-         style="font-size:33.55942154px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.94520551;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         xml:space="preserve"><tspan
-           style="font-size:223.72947693px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:San Francisco Display;-inkscape-font-specification:San Francisco Display Bold"
-           y="369.21924"
-           x="275.62421"
-           id="tspan5573"
-           sodipodi:role="line">&gt;_</tspan></text>
-    </g>
+         y="369.21924"
+         style="font-size:223.72947693px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:San Francisco Display;-inkscape-font-specification:San Francisco Display Bold">&gt;_</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"

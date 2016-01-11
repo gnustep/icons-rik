@@ -17,7 +17,7 @@
    sodipodi:docname="FileManager.svg"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcones/FichiersTiff48/AppIcons/FileManager.png"
+   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG/org.gnustep.GWorkspace/FileManager.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -544,7 +544,7 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.47923058"
-     inkscape:cx="776.02712"
+     inkscape:cx="335.73802"
      inkscape:cy="309.96514"
      inkscape:window-width="1224"
      inkscape:window-height="944"

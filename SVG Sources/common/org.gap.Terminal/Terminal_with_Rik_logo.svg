@@ -17,9 +17,9 @@
    sodipodi:docname="Terminal_with_Rik_logo.svg"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/Tiff48/common/org.gap.Terminal/Terminal_with_Rik_Logo.png"
-   inkscape:export-xdpi="71.982422"
-   inkscape:export-ydpi="71.982422"
+   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG/org.gap.Terminal/Terminal_with_Rik_logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
    enable-background="new">
   <metadata
      id="metadata10">
@@ -1010,15 +1010,15 @@
   <sodipodi:namedview
      id="base"
      showgrid="false"
-     inkscape:zoom="0.4757779"
-     inkscape:cx="356.27471"
+     inkscape:zoom="0.67285156"
+     inkscape:cx="512"
      inkscape:cy="512"
      inkscape:window-width="1280"
      inkscape:window-height="930"
      inkscape:window-x="1"
      inkscape:window-y="20"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -1036,7 +1036,7 @@
          y="105.65143"
          ry="86.279839" />
       <rect
-         ry="86.279839"
+         ry="52.650711"
          y="105.65143"
          x="25.432062"
          height="812.69714"
@@ -1050,9 +1050,9 @@
          height="659.66205"
          x="101.23922"
          y="182.16901"
-         ry="52.189579" />
+         ry="33.273186" />
       <rect
-         ry="48.336643"
+         ry="14.707502"
          y="206.51901"
          x="126.53802"
          height="610.96198"
@@ -1092,11 +1092,11 @@
      style="opacity:0.77448276;display:inline">
     <g
        id="g4920"
-       transform="matrix(0.34034835,0,0,0.34117031,525.27809,427.57809)"
+       transform="matrix(0.34034835,0,0,0.34117031,533.68537,454.90176)"
        style="filter:url(#filter5357)">
       <path
          transform="matrix(1.1377213,0,0,1.1377213,233.29666,256.12631)"
-         d="m 675.37517,225.58078 a 429.28705,429.28705 0 1 1 -858.5741,0 429.28705,429.28705 0 1 1 858.5741,0 z"
+         d="m 675.37517,225.58078 c 0,237.08869 -192.19836,429.28705 -429.28705,429.28705 -237.0886906,0 -429.28705,-192.19836 -429.28705,-429.28705 0,-237.08869 192.1983594,-429.28705 429.28705,-429.28705 237.08869,0 429.28705,192.19836 429.28705,429.28705 z"
          sodipodi:ry="429.28705"
          sodipodi:rx="429.28705"
          sodipodi:cy="225.58078"
