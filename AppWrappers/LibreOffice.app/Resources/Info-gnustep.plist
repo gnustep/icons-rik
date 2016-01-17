@@ -5,24 +5,36 @@
 	XAppWrapper = YES;
   NSTypes = (
     {
-      NSUnixExtensions = ( "odt" );
-      NSIcon = "office-document.tiff";
+      NSUnixExtensions = ( odt );
+      NSIcon = "FileIcon_odt.tiff";
     },
     {
-      NSUnixExtensions = ( "ods" );
-      NSIcon = "office-spreadsheet.tiff";
+      NSUnixExtensions = ( sxw );
+      NSIcon = "FileIcon_odt.tiff";
     },
     {
-      NSUnixExtensions = ( "odp" );
-      NSIcon = "office-presentation.tiff";
+      NSUnixExtensions = ( ods );
+      NSIcon = "FileIcon_ods.tiff";
     },
     {
-      NSUnixExtensions = ( "html", "htm", "xhtml" );
-      NSIcon = "FileIcon_.html.tiff";
+      NSUnixExtensions = ( odg );
+      NSIcon = "FileIcon_odg.tiff";
+    },
+   {
+      NSUnixExtensions = ( odp );
+      NSIcon = "FileIcon_odp.tiff";
     },
     {
-      NSUnixExtensions = ( "doc");
-      NSIcon = "office-document.tiff";
+      NSUnixExtensions = ( html, htm, xhtml );
+      NSIcon = "FileIcon_html.tiff";
+    },
+    {
+      NSUnixExtensions = ( odf );
+      NSIcon = "FileIcon_odf.tiff";
+    },
+    {
+      NSUnixExtensions = ( doc);
+      NSIcon = "FileIcon_doc.tiff";
     }
   );
 }
