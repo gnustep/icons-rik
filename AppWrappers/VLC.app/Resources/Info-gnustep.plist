@@ -239,6 +239,10 @@
       	    NSIcon = "FileIcon_mkv.tiff";
         },
 	{
+      	    NSUnixExtensions = ( webm );
+      	    NSIcon = "FileIcon_webm.tiff";
+        },
+	{
       	    NSUnixExtensions = ( ogm );
       	    NSIcon = "FileIcon_mkv.tiff";
         },
