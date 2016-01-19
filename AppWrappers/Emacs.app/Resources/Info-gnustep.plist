@@ -34,6 +34,10 @@
       NSIcon = "FileIcon_c++.tiff";
     },
     {
+      NSUnixExtensions = ( strings );
+      NSIcon = "FileIcon_strings.tiff";
+    },
+    {
       NSUnixExtensions = ( m, mm );
       NSIcon = "FileIcon_objc.tiff";
     }

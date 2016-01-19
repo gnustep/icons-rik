@@ -41,6 +41,11 @@
       NSIcon = "FileIcon_plist.tiff";
     },
     {
+      NSUnixExtensions = ( "strings" );
+      NSIcon = "FileIcon_strings.tiff";
+    },
+  
+    {
       NSUnixExtensions = ( "html", "htm", "xhtml" );
       NSIcon = "FileIcon_html.tiff";
     }
