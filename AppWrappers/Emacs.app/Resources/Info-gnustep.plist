@@ -5,40 +5,40 @@
 	XAppWrapper = YES;
   NSTypes = (
     {
-      NSUnixExtensions = ( "txt" );
+      NSUnixExtensions = ( "txt","txt~" );
       NSIcon = "FileIcon_genericText.tiff";
     },
     {
-      NSUnixExtensions = ( "plist" );
+      NSUnixExtensions = ( "plist", "plist~" );
       NSIcon = "FileIcon_plist.tiff";
     },
     {
-      NSUnixExtensions = ( "sh", "csh", "bash" );
+      NSUnixExtensions = ( "sh", "csh", "bash", "sh~", "csh~" ,"bash~" );
       NSIcon = "FileIcon_sh.tiff";
     },
 
     {
-      NSUnixExtensions = ( "html", "htm", "xhtml" );
+      NSUnixExtensions = ( "html", "htm", "xhtml", "html~" ,"htm~" ,"xhtml~" );
       NSIcon = "FileIcon_html.tiff";
     },
     {
-      NSUnixExtensions = ( c );
+      NSUnixExtensions = ( "c", "c~" );
       NSIcon = "FileIcon_c.tiff";
     },
     {
-      NSUnixExtensions = ( "h" );
+      NSUnixExtensions = ( "h", "h~" );
       NSIcon = "FileIcon_h.tiff";
     },
     {
-      NSUnixExtensions = ( cc, cpp, c++ , cxx );
+      NSUnixExtensions = ( cc, cpp, c++ , cxx, cc~, cpp~ ,cxx~ );
       NSIcon = "FileIcon_c++.tiff";
     },
     {
-      NSUnixExtensions = ( strings );
+      NSUnixExtensions = ( strings, strings~ );
       NSIcon = "FileIcon_strings.tiff";
     },
     {
-      NSUnixExtensions = ( m, mm );
+      NSUnixExtensions = ( m, mm, m~ ,mm~ );
       NSIcon = "FileIcon_objc.tiff";
     }
   );
