@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="gnustep_wallpaper-green.svg"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/Wallpapers/gnustep_wallpaper-green.png"
+   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/Wallpapers/gnustep_wallpaper-green.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient4264">
       <stop
-         style="stop-color:#61c263;stop-opacity:1;"
+         style="stop-color:#709271;stop-opacity:1;"
          offset="0"
          id="stop4266" />
       <stop
-         style="stop-color:#8cf290;stop-opacity:0.87096775;"
+         style="stop-color:#aaddac;stop-opacity:0.87096775;"
          offset="1"
          id="stop4268" />
     </linearGradient>
@@ -361,7 +361,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.59453125"
-     inkscape:cx="640"
+     inkscape:cx="993.21945"
      inkscape:cy="512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
