@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="common_copyCursor_1024.svg"
-   inkscape:export-filename="/home/bertrand/Bureau/RikIcones/common_MovieFolder.png"
+   inkscape:export-filename="/home/bertrand/Bureau/RikIcons_git/RikIcons/PNG1024/common/common_copyCursor_1024.svg.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    enable-background="new">
@@ -902,9 +902,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29636687"
-     inkscape:cx="32.725147"
-     inkscape:cy="76.593216"
+     inkscape:zoom="0.67578125"
+     inkscape:cx="510.52023"
+     inkscape:cy="512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -938,7 +938,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -983,5 +983,10 @@
        y="470.74881"
        rx="22.810802"
        ry="14.656322" />
+    <path
+       id="path3914"
+       style="fill:none;stroke:#494949;stroke-width:72.41345215000001190;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 499.3487,737.57392 -337.61541,0 -18.9317,0 0,0 m 178.27355,-178.27355 0,337.6154 0,18.93171 0,0"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
