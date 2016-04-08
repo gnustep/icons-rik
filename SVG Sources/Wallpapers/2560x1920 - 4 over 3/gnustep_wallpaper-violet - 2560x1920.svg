@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1280"
-   height="1024"
+   width="2560"
+   height="1920"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gnustep_wallpaper-inversed.svg"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/Wallpapers/gnustep_wallpaper-inversed.png"
+   sodipodi:docname="gnustep_wallpaper-violet.svg"
+   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/gnustep_wallpaper.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient4264">
       <stop
-         style="stop-color:#c4c4be;stop-opacity:1;"
+         style="stop-color:#2d1a62;stop-opacity:1;"
          offset="0"
          id="stop4266" />
       <stop
-         style="stop-color:#f6f6f5;stop-opacity:1"
+         style="stop-color:#8b6da9;stop-opacity:1;"
          offset="1"
          id="stop4268" />
     </linearGradient>
@@ -37,7 +37,7 @@
        xlink:href="#linearGradient3750-1"
        id="radialGradient3510"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.67214857,0.63332113,-0.61028977,-0.64770526,689.3736,305.45857)"
+       gradientTransform="matrix(-0.7314919,0.625741,-0.53602845,-0.62661788,680.25609,300.2631)"
        cx="281.13577"
        cy="347.43582"
        fx="281.13577"
@@ -196,7 +196,6 @@
        inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB;"
        id="filter3782">
       <feFlood
          result="flood"
@@ -212,7 +211,6 @@
       <feGaussianBlur
          result="blur"
          stdDeviation="15"
-         in="composite"
          id="feGaussianBlur3788" />
       <feOffset
          result="offset"
@@ -305,7 +303,6 @@
       <feGaussianBlur
          result="blur"
          stdDeviation="5"
-         in="composite"
          id="feGaussianBlur3901" />
       <feOffset
          result="offset"
@@ -346,52 +343,35 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4264"
        id="linearGradient4270"
-       x1="531.34503"
-       y1="1186.5481"
-       x2="822.31171"
-       y2="86.439438"
+       x1="620.72461"
+       y1="1002.1856"
+       x2="813.87964"
+       y2="91.513657"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99738454,0,0,0.99444205,0,28.36046)" />
-    <filter
-       id="filter3047"
-       inkscape:label="Invert"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Invert colors"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3049"
-         type="saturate"
-         values="1"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         id="feColorMatrix3051"
-         in="fbSourceGraphic"
-         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-    </filter>
-    <filter
-       id="filter3053"
-       inkscape:label="Invert"
-       x="0"
-       y="0"
-       width="1"
-       height="1"
-       inkscape:menu="Color"
-       inkscape:menu-tooltip="Invert colors"
-       color-interpolation-filters="sRGB">
-      <feColorMatrix
-         id="feColorMatrix3055"
-         type="saturate"
-         values="1"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         id="feColorMatrix3057"
-         in="fbSourceGraphic"
-         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
-    </filter>
+       gradientTransform="matrix(1.9903616,0,0,1.8575714,3.671875e-6,-867.06211)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3750-1-2"
+       id="radialGradient3510-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.7314919,0.625741,-0.53602845,-0.62661788,680.25609,300.2631)"
+       cx="281.13577"
+       cy="347.43582"
+       fx="281.13577"
+       fy="347.43582"
+       r="250" />
+    <linearGradient
+       id="linearGradient3750-1-2"
+       inkscape:collect="always">
+      <stop
+         id="stop3752-5-7"
+         offset="0"
+         style="stop-color:#594b4b;stop-opacity:1" />
+      <stop
+         id="stop3754-8-6"
+         offset="1"
+         style="stop-color:#242424;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -400,9 +380,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59453125"
-     inkscape:cx="640"
-     inkscape:cy="535.86468"
+     inkscape:zoom="0.28203125"
+     inkscape:cx="1218.9059"
+     inkscape:cy="947.43998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -431,27 +411,39 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362183)">
+     transform="translate(0,867.63782)"
+     style="display:inline">
     <rect
-       style="opacity:0.96416937000000003;fill:url(#linearGradient4270);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3047)"
+       style="opacity:0.77238805;fill:url(#linearGradient4270);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3475"
-       width="1282.8345"
-       height="1027.8629"
+       width="2560"
+       height="1920"
        x="0"
-       y="28.052256"
+       y="-867.63782"
        ry="0"
-       transform="matrix(-1,0,0,-1,1282.8345,1083.9674)" />
+       inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/Wallpapers/2560x1920-4 over 3/Violet/gnustep-wallpaper-voilet-2560x1920-bg.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo"
+     style="display:inline">
     <g
        id="g3469"
-       transform="matrix(0.74567155,0,0,0.74567155,419.133,319.90378)"
-       style="opacity:0.63356162;filter:url(#filter3053)">
+       transform="matrix(1.4880479,0,0,1.3928797,833.58563,542.13609)"
+       style="opacity:0.63356162"
+       inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/Wallpapers/2560x1920-4 over 3/Violet/gnustep-wallpaper-voilet-2560x1920-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:none"
          inkscape:label="Fond blanc"
          id="layer1-4">
         <path
            transform="matrix(0.98245619,0,0,0.98538017,217.59003,177.54285)"
-           d="m 367.10964,123.25581 c 0,156.87823 -127.17493,284.05317 -284.05316,284.05317 -156.878229,0 -284.05316,-127.17494 -284.05316,-284.05317 0,-156.878226 127.174931,-284.05316 284.05316,-284.05316 156.87823,0 284.05316,127.174934 284.05316,284.05316 z"
+           d="m 367.10964,123.25581 a 284.05316,284.05316 0 1 1 -568.10632,0 284.05316,284.05316 0 1 1 568.10632,0 z"
            sodipodi:ry="284.05316"
            sodipodi:rx="284.05316"
            sodipodi:cy="123.25581"
@@ -469,7 +461,7 @@
            inkscape:connector-curvature="0"
            id="path148"
            d="M 298.65625,50 C 161.40808,50 50.000001,161.37552 50.000001,298.62499 c 0,63.21343 23.65869,120.92593 62.562499,164.8125 l 102.59375,-0.5625 0.46875,-166.96875 166.5,0 0.90625,-164.68749 99.59375,0.25 C 437.13239,81.437338 371.55407,50 298.65625,50 z M 482.625,131.46875 c 40.15917,44.16586 64.65625,102.80469 64.65625,167.15624 0,137.24504 -111.37572,248.65626 -248.625,248.65626 -74.0333,0 -140.53204,-32.44655 -186.09375,-83.84376 L 51.375001,463.78124 52.281251,550 550,549.53125 l -1.8125,-417.875 -65.5625,-0.1875 z"
-           style="font-size:12px;fill:url(#radialGradient3510);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
+           style="font-size:12px;fill:url(#radialGradient3510-5);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
       </g>
     </g>
   </g>
