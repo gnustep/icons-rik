@@ -105,6 +105,20 @@
 	},
 	{
 	    NSDocumentClass = ZipperDocument;
+	    NSHumanReadableName = "Compressed Tar Archive";
+	    NSIcon = "FileIcon_xz.tiff";
+	    NSName = TarXz;
+	    NSRole = Editor;
+	    NSUnixExtensions = (
+		xz,
+		XZ,
+		txz,
+		TXZ,
+		"tar.xz"
+	    );
+	},
+	{
+	    NSDocumentClass = ZipperDocument;
 	    NSHumanReadableName = "Rar Archive";
 	    NSIcon = "FileIcon_rar.tiff";
 	    NSName = Rar;

@@ -691,7 +691,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1293"
+     inkscape:window-width="1280"
      inkscape:window-height="934"
      inkscape:window-x="2"
      inkscape:window-y="3"
@@ -711,7 +711,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
         <dc:creator>
@@ -1269,6 +1269,6 @@
          x="522.49207"
          y="873.35083"
          style="font-size:136.15715027px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#808080;font-family:Sans;-inkscape-font-specification:Sans Bold"
-         id="tspan4124">BZ2</tspan></text>
+         id="tspan4124">XZ</tspan></text>
   </g>
 </svg>
