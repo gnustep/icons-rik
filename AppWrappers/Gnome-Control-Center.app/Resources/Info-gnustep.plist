@@ -1,0 +1,7 @@
+{
+  NSExecutable = "Gnome-Control-Center";
+  NSIcon = "Gnome-Control-Center.png";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+    
+}
