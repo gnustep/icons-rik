@@ -1,0 +1,7 @@
+{
+  NSExecutable = "Gnome-Sound-Preference";
+  NSIcon = "Gnome-Sound-Preference.png";
+  NSRole = "Viewer";
+  XAppWrapper = YES;
+    
+}

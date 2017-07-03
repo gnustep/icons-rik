@@ -1,0 +1,9 @@
+#!/bin/sh
+
+APP='gnome-control-center sound'
+
+if [ $# -eq 2 ] ; then
+  $APP "$2" &
+else
+  $APP &
+fi
