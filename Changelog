@@ -1,4 +1,59 @@
+03/07/17 - Add Gnome Sound panel preference appwrapper
 
+23/06/17 - Added Gnome-Control-Center appwrapper
+
+09/06/17 - New Google-Chrome app_wrapper
+
+23/04/16 - Added xz archive format in File-roller plist and FileIcon
+
+17/04/16 - Clean up. Made LaternaMagica icon brighter ;
+	Use custom html FileIcon in Firefox appwrapper ;
+	Refresh Cynthiune app and document icon, brighter.
+	Archive the original one in the AppIcons directory
+
+08/04/16 - Reorganized Wallpapers by resolution ;
+	added some resolutions ;
+	added a Cynthiune icon (original redone) and fileicon
+
+30/03/16 - More FileTypes icons for Zipper
+
+28/03/16 - New LaternaMagica icon
+
+27/03/16 - Update Zipper icon.
+
+26/03/2016 - Add new Zipper icon and fileicon
+
+22/03/16 - custom AClock icon ; new common_ApplicationFolder ;
+	update commun_unknownApplication icon ;
+	added a + on common_copyCursor for more readibility.
+
+18/03/16 - Added a 16/10 version the the inversed color wallpaper
+	and of inverse one. Soften the yellow, green and orange ones.
+
+16/03/16 - New folder with wallpapers.
+
+15/03/16 - New common_linkCursor.
+	Fix common_MultipleDocument transparency on drag/drop.
+
+05/03/16 - Update of commonMusicFolder.
+
+14/01/16 - Update Emacs plist to handle ~ files.
+
+09/02/16 - Added an org.gnustep.GWorkspace.MdFinder folder.
+	Remove Tiff48 org.gnustep.GWorkspace.LiveSearch folder.
+	Added XChat app_wrapper.
+
+19/01/16 - Added FileIcon_string files to SVG Sources, PNG1024, Tiff48 and
+	Emacs appwrapper.
+
+17/01/16 - Update LibreOffice app_wrapper and cleanup. Added FileIcon_webm.
+	Added to Totem and VLC app wrappers
+
+11/01/16 - Update some SVG. Add a PNG1024 folder
+
+29/12/15 - Added common_ProgressIndeterminate icons
+
+27/12/15 - Updated unKnown_Application icon. Added SystemPreferences icon
 
 20/12/15 - Added HardDisk icon, MultipleSelection icon, Terminal icon and
 	Terminal_with_Rik_logo icon
