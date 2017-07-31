@@ -35,6 +35,18 @@
     {
       NSUnixExtensions = ( doc);
       NSIcon = "FileIcon_doc.tiff";
+    },
+    {
+      NSUnixExtensions = ( xls);
+      NSIcon = "FileIcon_xls.tiff";
+    },
+    {
+      NSUnixExtensions = ( docx);
+      NSIcon = "FileIcon_doc.tiff";
+    },
+    {
+      NSUnixExtensions = ( xlsx);
+      NSIcon = "FileIcon_xls.tiff";
     }
   );
 }
