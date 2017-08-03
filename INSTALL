@@ -1,43 +1,7 @@
-Here are several instructions to use the icons with the Rik gnustep theme.
+This set of icons is now part of the rik theme.
 
+All applications icons and fileicons are now included int the theme itself and can be used with the latest release of gnustep-gui  (for now 0.25.1).
 
+Appwrappers can be put in one of the Applications folders as any gnustep applicaion.
 
-In the  "common" folder on RikIcons, you will finds icons to replace and complete those found in the "Resource/ThemeImages" folder of the gnustep theme. See https://github.com/AlessandroSangiuliano/rik.theme.
-
-You can build and install  the theme following the GNUstep installation procedure :
-
-you can install the theme  in your local theme folder  with :
-
-"make install GNUSTEP_INSTALLATION_DOMAIN=USER"
-
-or in the system-wide theme folder with :
-
-" make && sudo -E make install"
-
-Check then  http://www.gnu.org/software/gnustep/experience/Theming.html to see how to use the theme.
-
-_____________________________________________________________________________
-
-In the "FileTypes" folders, you will find icons to be put in App bundles or applications' wrappers.Theme engines cannot replace them directly for all gnustep apps.
-
-In the App_Wrappers folder, you will find a set of app_wrappers for nonGNUstep apps, using these icons. Copy these App_wrappers in your local or system-wide "GNUStep/Applications" folder. 
-Then run "make_services" in a terminal to update the database of apps in GNUstep.
-
-You can set the app associated with each filetype using the "Tools" inspector in GWorkspace.
-For instance, you can select a mp3 file and go to the menu and open the "Tools" inspector and choose VLC as default app for mp3.
- Once your default apps are set for all filetypes, you can relaunch GWorkspace to see it using all the icons of this set.
-
-_____________________________________________________________________________
-
-In the "Places" and "Apps", you will find several icons I made to replace GWorkspace's default ones. This requires for now to subsitute the icons in the sources of GWorkspace or to replace manually the icons in it's bundle folder.
-
-
-The FileManager.tiff icon can replace the default GWorkspace icon. You can replace this one in the source of GWorkspace and rebuild/reinstall GWorkspace. Or you can replace it in the Resource folder of the GWorkspace bundle.
-
-I've made two icons for the recycler (trash). You can replace GWorkspace's ones in the FSNode folder of Gworkspace source and rebuild/reinstall FSNode. Or you can replace them directly the Ressource folder of FSNode.framework in "GNUstep/Library/Frameworks/" where it is installed in your system.
-
-Note that there is a work in progress in gnustep-gui and gworkspace to address this issue. There won't be any need to patch GWorkspace to use the icons of this set.  So the install instructions WILL change for this. 
-
-Enjoy !
-
-
+You can put the "rik.themed" windowmaker theme in your ~GNUstep/Library/Windowmaker/Themes folderand select it with windowmaker's dedicated menu.
