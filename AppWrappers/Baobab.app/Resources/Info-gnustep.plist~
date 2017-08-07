@@ -1,0 +1,11 @@
+{
+	NSExecutable = "/usr/bin/baobab";
+	NSIcon = "Baobab.tiff";
+	XAppWrapper = YES;
+	NSTypes = (
+		{
+			NSUnixExtensions = ();
+			NSIcon = "";
+		}
+	);
+}

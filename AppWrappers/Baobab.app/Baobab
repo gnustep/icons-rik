@@ -1,0 +1,3 @@
+#!/bin/sh
+#/usr/bin/baobab $*
+/usr/bin/baobab $2 &
