@@ -1,0 +1,11 @@
+{
+	NSExecutable = "/usr/bin/carmetal";
+	NSIcon = "CaRMetal.tiff";
+	XAppWrapper = YES;
+	NSTypes = (
+		{
+			NSUnixExtensions = (zirs,zir,zirz,mcr,job,js);
+			NSIcon = "FileIcon_CaRMetal.tiff";
+		}
+	);
+}

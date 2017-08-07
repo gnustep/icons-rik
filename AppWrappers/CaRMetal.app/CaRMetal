@@ -1,0 +1,3 @@
+#!/bin/sh
+#/usr/bin/carmetal $*
+/usr/bin/carmetal $2 &
