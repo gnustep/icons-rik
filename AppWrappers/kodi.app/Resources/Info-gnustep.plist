@@ -1,6 +1,6 @@
 {
-  NSExecutable = "xbmc";
-  NSIcon = "Xbmc.tiff";
+  NSExecutable = "kodi";
+  NSIcon = "Kodi.tiff";
   NSRole = "Viewer";
 	XAppWrapper = YES;
   NSTypes = (
