@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Empathy";
+  NSIcon = "Empathy.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}

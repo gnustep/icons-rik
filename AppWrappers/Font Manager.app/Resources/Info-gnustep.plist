@@ -1,0 +1,6 @@
+{
+	NSExecutable = "FontManager";
+	NSIcon = "FontManager.tiff";
+	NSRole = "Viewer";	
+	XAppWrapper = YES;
+}

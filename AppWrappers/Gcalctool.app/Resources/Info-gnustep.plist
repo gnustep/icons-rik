@@ -1,7 +1,7 @@
 {
-  NSExecutable = "gcalctool";
-  NSIcon = "Calculator.tiff";
-  NSRole = "Viewer";
+	NSExecutable = "gcalctool";
+  	NSIcon = "Calculator.tiff";
+  	NSRole = "Viewer";
 	XAppWrapper = YES;
     
 }
