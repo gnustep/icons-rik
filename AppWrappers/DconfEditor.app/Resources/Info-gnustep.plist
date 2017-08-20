@@ -1,0 +1,7 @@
+{
+	NSExecutable = "DConfEditor";
+  	NSIcon = "DConfEditor.tiff";
+  	NSRole = "Viewer";
+	XAppWrapper = YES;
+    
+}

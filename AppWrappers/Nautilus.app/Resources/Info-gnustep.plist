@@ -1,6 +1,6 @@
 {
-    NSExecutable = nautilus;
-    NSIcon = "system-file-manager.tiff";
+    NSExecutable = Nautilus;
+    NSIcon = "Nautilus.tiff";
     NSRole = "Viewer";
 		XAppWrapper = YES;
     NSTypes = (

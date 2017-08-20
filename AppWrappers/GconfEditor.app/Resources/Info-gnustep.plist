@@ -1,0 +1,7 @@
+{
+	NSExecutable = "GConfEditor";
+  	NSIcon = "GConfEditor.tiff";
+  	NSRole = "Viewer";
+	XAppWrapper = YES;
+    
+}

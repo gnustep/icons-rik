@@ -1,6 +1,6 @@
 {
-    NSExecutable = caja;
-    NSIcon = "system-file-manager.tiff";
+    NSExecutable = Caja;
+    NSIcon = "Caja.tiff";
     NSRole = "Viewer";
 		XAppWrapper = YES;
     NSTypes = (

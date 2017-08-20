@@ -1,0 +1,7 @@
+{
+	NSExecutable = "GComprisEdit";
+  	NSIcon = "GComprisEdit.tiff.tiff";
+  	NSRole = "Viewer";
+	XAppWrapper = YES;
+    
+}
