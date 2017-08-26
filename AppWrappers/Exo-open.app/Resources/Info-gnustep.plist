@@ -1,0 +1,12 @@
+{
+  NSExecutable = "Exo-open";
+  NSIcon = "common_UnknownApplication.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "desktop" );
+      NSIcon = "common_UnknownApplication.tiff";
+    }
+  );
+}
