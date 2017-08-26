@@ -1,4 +1,4 @@
-This set of icons, the app-wrappers and the  windowmaker theme are to be used in GNUstep with the rik.theme. 
+This set of icons, the app-wrappers are to be used in GNUstep with the rik.theme. 
 See https://github.com/AlessandroSangiuliano/rik.theme.
 
 All icons are 48x48 tiff files. The SVG ones are the original files I made.
@@ -9,8 +9,6 @@ I've created them using exclusively free software : Linux as OS, Inkscape for SV
 
 
 Note that the app icons used in the app_wrappers are not my work. They almost come from the FaenzaMac icon theme for Gnome and keep their former licence.
-
-The windowmaker theme is a modifyed version of the Rhaps theme from https://www.opendesktop.org/s/Window-Managers/p/1018322/. You should put this Rik.themed in .../Library/WindowMaker/Themes.
 
 
 
