@@ -1,7 +1,5 @@
 This set of icons is now part of the rik theme.
 
-All applications icons and fileicons are now included int the theme itself and can be used with the latest release of gnustep-gui  (for now 0.25.1).
+All applications icons and fileicons are now included int rik.theme itself and can be used with the latest release of gnustep-gui  (for now 0.25.1).
 
-Appwrappers can be put in one of the Applications folders as any gnustep applicaion.
-
-You can put the "rik.themed" windowmaker theme in your ~GNUstep/Library/Windowmaker/Themes folderand select it with windowmaker's dedicated menu.
+Appwrappers are intended to launch non-GNUstep applications via GWorkspace - the GNUstep file manager - and to let some filetypes to be associated to these apps in GWorkspace. As any GNUstep application, appwrappers can be put in any folder, for instance your ~/GNUstep/Applications folders.
