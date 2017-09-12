@@ -1,14 +1,14 @@
 This set of icons, the app-wrappers are to be used in GNUstep with the rik.theme. 
 See https://github.com/AlessandroSangiuliano/rik.theme.
 
-All icons are 48x48 tiff files. The SVG ones are the original files I made.
+The icons used in rik.theme are the 48x48 tiff files. The SVG ones are the original files I made.
 They are released under MIT Licence and CreativeCommons (http://creativecommons.org/licenses/by/3.0/), except for the GNUstep logo which is CC by/sa/3.0.
 
 
-I've created them using exclusively free software : Linux as OS, Inkscape for SVG, Gimp for tiff creation, Iceweasel for web browsing, GNUstep/Gworkspace/Windowmaker for desktop.
+I've created them using exclusively free software : Linux as OS, Inkscape for SVG, Gimp, Pikopixel and LaternaMagica for png/tiff creation, Iceweasel for web browsing, GNUstep/Gworkspace/Windowmaker for desktop.
 
 
-Note that the app icons used in the app_wrappers are not my work. They almost come from the FaenzaMac icon theme for Gnome and keep their former licence.
+Note that the app icons used in the app_wrappers are not my work. They almost come from the Faenza icon theme for Gnome and keep their former licence.
 
 
 
