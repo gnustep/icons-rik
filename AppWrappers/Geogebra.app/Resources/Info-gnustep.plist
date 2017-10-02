@@ -1,0 +1,11 @@
+{
+	NSExecutable = "Geogebra";
+	NSIcon = "Geogebra.tiff";
+	XAppWrapper = YES;
+	NSTypes = (
+		{
+			NSUnixExtensions = (ggb);
+			NSIcon = "FileIcon_Geogebra.tiff";
+		}
+	);
+}

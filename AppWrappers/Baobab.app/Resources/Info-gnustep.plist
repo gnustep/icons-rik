@@ -1,7 +1,6 @@
 {
-	NSExecutable = "/usr/bin/baobab";
+	NSExecutable = "Baobab";
 	NSIcon = "Baobab.tiff";
 	XAppWrapper = YES;
 	NSRole = "Viewer";
-	);
 }
