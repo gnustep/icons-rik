@@ -1,0 +1,7 @@
+{
+  NSExecutable = "Gnome-calculator";
+  NSIcon = "Calculator.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+    
+}
