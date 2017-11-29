@@ -1,5 +1,5 @@
 {
-  NSExecutable = "icedove";
+  NSExecutable = "Thunderbird";
   NSRole = "Viewer";
   NSIcon = "thunderbird.tiff";
 	XAppWrapper = YES;

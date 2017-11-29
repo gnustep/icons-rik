@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Virtualbox";
+  NSIcon = "Virtualbox.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}
