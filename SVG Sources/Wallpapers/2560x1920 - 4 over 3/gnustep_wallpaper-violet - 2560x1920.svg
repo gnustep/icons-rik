@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gnustep_wallpaper-violet.svg"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/gnustep_wallpaper.png"
+   sodipodi:docname="gnustep_wallpaper-violet - 2560x1920.svg"
+   inkscape:export-filename="/home/bertrand/Desktop/BertrandDekoninck_git/RikIcons/PNG1024/Wallpapers/2560x1920-4 over 3/gnustep-wallpaper-voilet-2560x1920.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -24,11 +24,11 @@
     <linearGradient
        id="linearGradient4264">
       <stop
-         style="stop-color:#2d1a62;stop-opacity:1;"
+         style="stop-color:#54408d;stop-opacity:1;"
          offset="0"
          id="stop4266" />
       <stop
-         style="stop-color:#8b6da9;stop-opacity:1;"
+         style="stop-color:#a484c2;stop-opacity:1;"
          offset="1"
          id="stop4268" />
     </linearGradient>
@@ -380,9 +380,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28203125"
-     inkscape:cx="1218.9059"
-     inkscape:cy="947.43998"
+     inkscape:zoom="0.29570313"
+     inkscape:cx="1280"
+     inkscape:cy="960"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -421,7 +421,7 @@
        x="0"
        y="-867.63782"
        ry="0"
-       inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/Wallpapers/2560x1920-4 over 3/Violet/gnustep-wallpaper-voilet-2560x1920-bg.png"
+       inkscape:export-filename="/home/bertrand/Desktop/BertrandDekoninck_git/RikIcons/PNG1024/Wallpapers/2560x1920-4 over 3/Violet/gnustep-wallpaper-voilet-2560x1920-bg.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -443,7 +443,7 @@
          id="layer1-4">
         <path
            transform="matrix(0.98245619,0,0,0.98538017,217.59003,177.54285)"
-           d="m 367.10964,123.25581 a 284.05316,284.05316 0 1 1 -568.10632,0 284.05316,284.05316 0 1 1 568.10632,0 z"
+           d="m 367.10964,123.25581 c 0,156.87823 -127.17493,284.05317 -284.05316,284.05317 -156.878229,0 -284.05316,-127.17494 -284.05316,-284.05317 0,-156.878226 127.174931,-284.05316 284.05316,-284.05316 156.87823,0 284.05316,127.174934 284.05316,284.05316 z"
            sodipodi:ry="284.05316"
            sodipodi:rx="284.05316"
            sodipodi:cy="123.25581"
