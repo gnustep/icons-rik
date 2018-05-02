@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Quake3";
+  NSIcon = "Quake3.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}

@@ -1,0 +1,8 @@
+{
+  NSExecutable = "Openarena";
+  NSIcon = "Openarena.tiff";
+  NSRole = "Viewer";
+	XAppWrapper = YES;
+  NSTypes = (
+  );
+}
