@@ -3,6 +3,15 @@
   NSRole = "Viewer";
   NSIcon = "Epiphany.tiff";
 	XAppWrapper = YES;
+  CFBundleURLTypes = (
+  	{
+		CFBundleURLName = "Web site URL";
+		CFBundleURLSchemes = (
+		    http,
+		   https
+	    );
+	}
+  );
   NSTypes = (
     {
       NSUnixExtensions = ( "html" );
