@@ -2,7 +2,16 @@
   NSExecutable = "firefox";
   NSRole = "Viewer";
   NSIcon = "firefox.png";
-	XAppWrapper = YES;
+  XAppWrapper = YES;
+  CFBundleURLTypes = (
+  	{
+		CFBundleURLName = "Web site URL";
+		CFBundleURLSchemes = (
+		    http,
+		   https
+	    );
+	}
+  );
   NSTypes = (
     {
       NSUnixExtensions = ( "html" );

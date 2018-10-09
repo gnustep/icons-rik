@@ -3,6 +3,15 @@
   NSRole = "Viewer";
   NSIcon = "chrome.png";
 	XAppWrapper = YES;
+   CFBundleURLTypes = (
+  	{
+		CFBundleURLName = "Web site URL";
+		CFBundleURLSchemes = (
+		    http,
+		   https
+	    );
+	}
+  );
   NSTypes = (
     {
       NSUnixExtensions = ( "html" );
@@ -13,4 +22,5 @@
       NSIcon = "FileIcon_.html.tiff";
     }
   );
+
 }
