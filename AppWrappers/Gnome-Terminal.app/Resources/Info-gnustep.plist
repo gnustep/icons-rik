@@ -1,0 +1,12 @@
+{
+  NSExecutable = "gnome-terminal";
+  NSIcon = "gnome-terminal.tiff";
+  NSRole = "Editor";
+	XAppWrapper = YES;
+  NSTypes = (
+   {
+      NSUnixExtensions = ( "sh", "csh", "bash" );
+      NSIcon = "FileIcon_sh.tiff";
+    }
+  );
+}
