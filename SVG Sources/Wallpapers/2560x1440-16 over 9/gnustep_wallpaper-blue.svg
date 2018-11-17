@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1280"
-   height="1024"
+   width="2560"
+   height="1440"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gnustep_wallpaper-red.svg"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/Wallpapers/gnustep_wallpaper-red.png"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="gnustep_wallpaper-blue.svg"
+   inkscape:export-filename="/home/bertrand/Install_GNUStep/RikIcons/PNG1024/Wallpapers/2560-1440- 16 over 9/gnustep-wallpaper-blue-2560x1440.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -24,11 +24,15 @@
     <linearGradient
        id="linearGradient4264">
       <stop
-         style="stop-color:#4f409d;stop-opacity:1;"
+         style="stop-color:#649dcc;stop-opacity:1;"
          offset="0"
          id="stop4266" />
       <stop
-         style="stop-color:#b9b2e0;stop-opacity:0.87096775;"
+         id="stop4904"
+         offset="0.5094589"
+         style="stop-color:#326aa6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#1b1185;stop-opacity:1;"
          offset="1"
          id="stop4268" />
     </linearGradient>
@@ -196,7 +200,6 @@
        inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Drop Shadow"
-       style="color-interpolation-filters:sRGB;"
        id="filter3782">
       <feFlood
          result="flood"
@@ -212,7 +215,6 @@
       <feGaussianBlur
          result="blur"
          stdDeviation="15"
-         in="composite"
          id="feGaussianBlur3788" />
       <feOffset
          result="offset"
@@ -305,7 +307,6 @@
       <feGaussianBlur
          result="blur"
          stdDeviation="5"
-         in="composite"
          id="feGaussianBlur3901" />
       <feOffset
          result="offset"
@@ -342,16 +343,95 @@
          offset="1"
          style="stop-color:#242424;stop-opacity:1" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3750-1-2"
+       id="radialGradient3510-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.7314919,0.625741,-0.53602845,-0.62661788,680.25609,300.2631)"
+       cx="281.13577"
+       cy="347.43582"
+       fx="281.13577"
+       fy="347.43582"
+       r="250" />
     <linearGradient
+       id="linearGradient3750-1-2"
+       inkscape:collect="always">
+      <stop
+         id="stop3752-5-4"
+         offset="0"
+         style="stop-color:#594b4b;stop-opacity:1" />
+      <stop
+         id="stop3754-8-0"
+         offset="1"
+         style="stop-color:#242424;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4264"
-       id="linearGradient4270"
-       x1="620.72461"
-       y1="1002.1856"
-       x2="813.87964"
-       y2="91.513657"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99738454,0,0,0.99444205,0,28.36046)" />
+       id="radialGradient4902"
+       cx="1389.7332"
+       cy="1105.3092"
+       fx="1389.7332"
+       fy="1105.3092"
+       r="1280"
+       gradientTransform="matrix(-2.6259057,-1.1814608,0.51958675,-1.1548294,4691.1972,2556.745)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB"
+       id="filter5071">
+      <feColorMatrix
+         values="0"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2"
+         id="feColorMatrix5073" />
+      <feFlood
+         flood-color="rgb(160,67,0)"
+         flood-opacity="1"
+         result="result1"
+         id="feFlood5075" />
+      <feBlend
+         in2="result1"
+         mode="multiply"
+         in="result2"
+         result="result5"
+         id="feBlend5077" />
+      <feBlend
+         in2="result2"
+         mode="screen"
+         result="result3"
+         id="feBlend5079" />
+      <feComposite
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         in2="result2"
+         id="feComposite5081" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         in="result4"
+         id="feComposite5083"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5119" />
+      <feColorMatrix
+         id="feColorMatrix5121"
+         type="saturate"
+         values="0"
+         in="fbSourceGraphic" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -360,20 +440,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59453125"
-     inkscape:cx="640"
-     inkscape:cy="512"
+     inkscape:zoom="0.32421875"
+     inkscape:cx="1280"
+     inkscape:cy="720"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1278"
-     inkscape:window-height="954"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1329"
+     inkscape:window-height="659"
+     inkscape:window-x="48"
+     inkscape:window-y="34"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -391,19 +471,33 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362183)">
+     transform="translate(0,387.63782)"
+     style="display:inline">
     <rect
-       style="opacity:0.96416938;fill:url(#linearGradient4270);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:1;fill:url(#radialGradient4902);fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3475"
-       width="1282.8345"
-       height="1027.8629"
-       x="0"
-       y="28.052256"
-       ry="0" />
+       width="2560"
+       height="1440"
+       x="5.6843419e-14"
+       y="-387.63782"
+       ry="0"
+       inkscape:export-filename="/home/bertrand/Install_GNUStep/RikIcons/PNG1024/Wallpapers/2560-1440- 16 over 9/gnustep-wallpaper-blue-2560x1440.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo"
+     transform="translate(0,416)"
+     style="display:inline">
     <g
        id="g3469"
-       transform="matrix(0.74567155,0,0,0.74567155,416.29854,316.66072)"
-       style="opacity:0.63356164">
+       transform="matrix(1.0446598,0,0,1.0446598,966.60206,-9.39794)"
+       style="opacity:0.63356162000000005;filter:url(#filter5071)"
+       inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/Wallpapers/2560-1440- 16 over 9/Violet/gnustep-wallpaper-violet-2560x1440-logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="display:none"
          inkscape:label="Fond blanc"
@@ -428,7 +522,7 @@
            inkscape:connector-curvature="0"
            id="path148"
            d="M 298.65625,50 C 161.40808,50 50.000001,161.37552 50.000001,298.62499 c 0,63.21343 23.65869,120.92593 62.562499,164.8125 l 102.59375,-0.5625 0.46875,-166.96875 166.5,0 0.90625,-164.68749 99.59375,0.25 C 437.13239,81.437338 371.55407,50 298.65625,50 z M 482.625,131.46875 c 40.15917,44.16586 64.65625,102.80469 64.65625,167.15624 0,137.24504 -111.37572,248.65626 -248.625,248.65626 -74.0333,0 -140.53204,-32.44655 -186.09375,-83.84376 L 51.375001,463.78124 52.281251,550 550,549.53125 l -1.8125,-417.875 -65.5625,-0.1875 z"
-           style="font-size:12px;fill:url(#radialGradient3510);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
+           style="font-size:12px;fill:url(#radialGradient3510-4);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt" />
       </g>
     </g>
   </g>
