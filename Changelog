@@ -1,4 +1,40 @@
-10/08/17 - Renamed XBMC.app to Kodi.app and change to default appicon.
+25/04/18 - Added Arcticfox.app and Mate-Control-Center.app. Update changelog.
+
+18/11/18 - Lightened all blue wallpaper and renamed some of them.
+
+17/11/18 Lightened the color of the blue 16-9 svg wallpaper and added a 16-9 png version.
+
+11/11/18 - Added Gnome-Terminal appwrapper.
+
+09/10/18 - Made Firefox.app, Epiphany.app and Google-Chrome.app available as default browsers in SystemPreferences
+
+02/05/18 - Added Openarean.app and Quake3.app.
+
+17/02/18 - Remove duplicate and cleanup file. Update 1280x1024 violet wallpaper.
+
+16/02/18 - Remove the transparancy and tweak the colors of the violet wallpaper.
+
+29/11/17 - Update the icon of Thunderbird.app. Add Virtualbox.app.
+
+08/10/17 -  Restored FileIcon_genericImage_1024.svg, added an appwrapper for gnome-calculator
+
+02/10/17 - Added Geogebra appwrapper and fileicon. Cleaned Baobab.app plist.
+
+12/09/17 - Update README.
+
+09/09/17 - Update INSTALL.
+
+26/08/17 - Added Exo-open.app, an appwrapper to open .desktop files. Updated README.
+
+25/08/17 Deleted Windowmaker theme and moved it to the Windowmaker Session repo.
+
+20/08/17 - Added GConfEditor.app, GCompris.app and GComprisEditor.app. Clean up stalled file.
+
+16/08/17 - Added Emplathy.app, Evolution.app, FontManager.app.
+
+15/08/17 - Added Epiphany.app.
+
+10/08/17 - Renamed XBMC.app to Kodi.app and change to default appicon. Correct typo.
 
 07/08/17 - Updated CaRmetal appwrapper. Added a Baobab appwrapper.
 
