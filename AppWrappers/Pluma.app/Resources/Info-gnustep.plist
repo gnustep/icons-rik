@@ -1,0 +1,53 @@
+{
+  NSExecutable = "pluma";
+  NSIcon = "text-editor.tiff";
+  NSRole = "Editor";
+	XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "txt", "text" );
+      NSIcon = "FileIcon_genericTextt.tiff";
+    },
+   {
+      NSUnixExtensions = ( "sh", "csh", "bash" );
+      NSIcon = "FileIcon_sh.tiff";
+    },
+    {
+      NSUnixExtensions = ( "c" );
+      NSIcon = "FileIcon_c.tiff";
+    },
+    {
+      NSUnixExtensions = ( "m", "mm" );
+      NSIcon = "FileIcon_.m.tiff";
+    },
+    {
+      NSUnixExtensions = ( "h" );
+      NSIcon = "FileIcon_.h.tiff";
+    },
+    {
+      NSUnixExtensions = ( cc, cpp, c++ , cxx );
+      NSIcon = "FileIcon_c++.tiff";
+    },
+    {
+      NSUnixExtensions = ( "java" );
+      NSIcon = "FileIcon_.java.tiff";
+    },
+    {
+      NSUnixExtensions = ( "class" );
+      NSIcon = "FileIcon_.class.tiff";
+    },  
+    {
+      NSUnixExtensions = ( "plist" );
+      NSIcon = "FileIcon_plist.tiff";
+    },
+    {
+      NSUnixExtensions = ( "strings" );
+      NSIcon = "FileIcon_strings.tiff";
+    },
+  
+    {
+      NSUnixExtensions = ( "html", "htm", "xhtml" );
+      NSIcon = "FileIcon_html.tiff";
+    }
+  );
+}
