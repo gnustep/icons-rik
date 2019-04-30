@@ -1,0 +1,12 @@
+{
+  NSExecutable = "ardour3";
+  NSIcon = "ardour_icon_48px.tiff";
+  NSRole = "Editor";
+  XAppWrapper = YES;
+  NSTypes = (
+    {
+      NSUnixExtensions = ( "ardour" );
+      NSIcon = "FileIcon_ardour.tiff";
+    }
+  );
+}
