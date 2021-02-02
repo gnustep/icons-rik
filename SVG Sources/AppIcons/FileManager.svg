@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,12 +12,14 @@
    sodipodi:version="0.31"
    width="1024"
    height="1024"
-   sodipodi:docname="FileManager-flashy.svg"
+   sodipodi:docname="FileManager.svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="/home/bertrand/Desktop/RikIcons_git/RikIcons/PNG1024/org.gnustep.GWorkspace/FileManager.png"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="/home/bertrand/Gnustep-build/GNUstep-build-19/RikIcons/PNG1024/AppIcons/FileManager.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <style
+     id="style2286"></style>
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -28,12 +28,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -782,17 +782,18 @@
   <sodipodi:namedview
      id="base"
      showgrid="false"
-     inkscape:zoom="0.68652344"
-     inkscape:cx="510.54339"
+     inkscape:zoom="0.56640625"
+     inkscape:cx="512"
      inkscape:cy="512"
-     inkscape:window-width="1226"
-     inkscape:window-height="924"
-     inkscape:window-x="55"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg888"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0" />
   <path
      sodipodi:type="arc"
      style="opacity:1;fill:#ffffff;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
