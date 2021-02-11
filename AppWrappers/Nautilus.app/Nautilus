@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-APP='nautilus --no-desktop'
+APP='nautilus'
 
 if [ $# -eq 2 ] ; then
   $APP "$2" &
