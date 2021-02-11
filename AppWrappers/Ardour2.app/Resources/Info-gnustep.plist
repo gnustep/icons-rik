@@ -1,5 +1,5 @@
 {
-  NSExecutable = "Ardour";
+  NSExecutable = "Ardour2";
   NSIcon = "ardour_icon_48px.tiff";
   NSRole = "Editor";
 	XAppWrapper = YES;
