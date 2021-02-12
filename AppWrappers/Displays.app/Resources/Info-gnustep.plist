@@ -1,6 +1,6 @@
 {
   NSExecutable = "Displays";
-  NSIcon = "Displays.tiff";
+  NSIcon = "Preferences-Desktop-Display.tiff";
   NSRole = "Tool";
 	XAppWrapper = YES;
   NSTypes = (

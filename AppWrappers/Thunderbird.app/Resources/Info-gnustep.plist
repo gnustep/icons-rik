@@ -1,7 +1,7 @@
 {
   NSExecutable = "Thunderbird";
   NSRole = "Viewer";
-  NSIcon = "thunderbird.tiff";
+  NSIcon = "Internet-Mail.tiff";
 	XAppWrapper = YES;
   NSTypes = (
     {

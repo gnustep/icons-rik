@@ -1,6 +1,6 @@
 {
   NSExecutable = "pluma";
-  NSIcon = "text-editor.tiff";
+  NSIcon = "Text-Editor.tiff";
   NSRole = "Editor";
 	XAppWrapper = YES;
   NSTypes = (

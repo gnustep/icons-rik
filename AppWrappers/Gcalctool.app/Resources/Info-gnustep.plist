@@ -1,6 +1,6 @@
 {
 	NSExecutable = "gcalctool";
-  	NSIcon = "Calculator.tiff";
+  	NSIcon = "Calc.tiff";
   	NSRole = "Viewer";
 	XAppWrapper = YES;
     

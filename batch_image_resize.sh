@@ -48,7 +48,7 @@ do
   fi
 
   echo Processing file : $source_file
-  convert $source_file $PARAM $dest_file
+  convert -units PixelsPerInch -density 72 $source_file $PARAM $dest_file
 
 
 done

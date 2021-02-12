@@ -1,6 +1,6 @@
 {
 	NSExecutable = "GConfEditor";
-  	NSIcon = "GConfEditor.tiff";
+  	NSIcon = "Dconf-Editor.tiff";
   	NSRole = "Viewer";
 	XAppWrapper = YES;
     

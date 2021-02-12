@@ -1,6 +1,6 @@
 {
   NSExecutable = "vlc";
-  NSIcon = "VLC_Icon.tiff";
+  NSIcon = "Vlc.tiff";
   NSRole = Viewer;
   XAppWrapper = YES;
   NSTypes = (

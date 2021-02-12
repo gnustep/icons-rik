@@ -2,7 +2,7 @@
     ApplicationDescription = "GUI for various compressed file formats";
     ApplicationName = Engrampa;
     NSExecutable = Engrampa;
-    NSIcon = "engrampa.tiff";
+    NSIcon = "File-Roller.tiff";
     NSTypes = (
 	{
 	    NSDocumentClass = ZipperDocument;

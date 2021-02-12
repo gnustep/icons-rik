@@ -1,7 +1,7 @@
 {
   NSExecutable = "Epiphany";
   NSRole = "Viewer";
-  NSIcon = "Epiphany.tiff";
+  NSIcon = "Web-Browser.tiff";
 	XAppWrapper = YES;
   CFBundleURLTypes = (
   	{

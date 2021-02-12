@@ -1,6 +1,6 @@
 {
   NSExecutable = "gnome-terminal";
-  NSIcon = "gnome-terminal.tiff";
+  NSIcon = "Terminal.tiff";
   NSRole = "Editor";
 	XAppWrapper = YES;
   NSTypes = (

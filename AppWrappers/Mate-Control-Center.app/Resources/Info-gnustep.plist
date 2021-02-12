@@ -1,6 +1,6 @@
 {
   NSExecutable = "Mate-Control-Center";
-  NSIcon = "Mate-Control-Center.png";
+  NSIcon = "Applications-System.tiff";
   NSRole = "Viewer";
 	XAppWrapper = YES;
     

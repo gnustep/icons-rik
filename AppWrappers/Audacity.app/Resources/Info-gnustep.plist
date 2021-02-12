@@ -1,6 +1,6 @@
 {
   NSExecutable = "audacity";
-  NSIcon = "audacity.tiff";
+  NSIcon = "Audacity.tiff";
   NSRole = Viewer;
   XAppWrapper = YES;
   NSTypes = (

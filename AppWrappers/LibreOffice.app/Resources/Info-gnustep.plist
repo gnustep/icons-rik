@@ -1,7 +1,7 @@
 {
   NSExecutable = "libreoffice";
   NSRole = "Editor";
-  NSIcon = "LibreOffice.tiff";
+  NSIcon = "Libreoffice.tiff";
 	XAppWrapper = YES;
   NSTypes = (
     {

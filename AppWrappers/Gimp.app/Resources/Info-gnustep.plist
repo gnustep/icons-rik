@@ -1,6 +1,6 @@
 {
   NSExecutable = "gimp";
-  NSIcon = "gimp.tiff";
+  NSIcon = "Gimp.tiff";
 	XAppWrapper = YES;
   NSTypes = (
     {

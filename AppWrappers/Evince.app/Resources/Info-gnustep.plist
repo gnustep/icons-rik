@@ -1,10 +1,10 @@
 {
     ApplicationDescription = "Document viewer";
-    ApplicationIcon = "evince.tiff";
+    ApplicationIcon = "Accessories-Document-Viewer.tiff";
     ApplicationName = Evince;
     ApplicationRelease = "0.5";
     NSExecutable = Evince;
-    NSIcon = "evince.tiff";
+    NSIcon = "Accessories-Document-Viewer.tiff";
     NSRole = Viewer;
     NSTypes = (
 	{

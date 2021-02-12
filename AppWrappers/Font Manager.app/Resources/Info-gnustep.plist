@@ -1,6 +1,6 @@
 {
 	NSExecutable = "FontManager";
-	NSIcon = "FontManager.tiff";
+	NSIcon = "Typora.tiff";
 	NSRole = "Viewer";	
 	XAppWrapper = YES;
 }

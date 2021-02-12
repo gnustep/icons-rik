@@ -2,7 +2,7 @@
     ApplicationDescription = "GUI for various compressed file formats";
     ApplicationName = File-roller;
     NSExecutable = File-roller;
-    NSIcon = "file-roller.tiff";
+    NSIcon = "File-Roller.tiff";
     NSTypes = (
 	{
 	    NSDocumentClass = ZipperDocument;

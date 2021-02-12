@@ -1,7 +1,7 @@
 {
   NSExecutable = "firefox";
   NSRole = "Viewer";
-  NSIcon = "firefox.png";
+  NSIcon = "Firefox.tiff";
   XAppWrapper = YES;
   CFBundleURLTypes = (
   	{

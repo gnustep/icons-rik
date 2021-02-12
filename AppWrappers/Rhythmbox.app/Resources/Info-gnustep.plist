@@ -1,6 +1,6 @@
 {
   NSExecutable = "rhythmbox";
-  NSIcon = "rhythmbox.tiff";
+  NSIcon = "Rhythmbox.tiff";
   NSRole = Viewer;
   XAppWrapper = YES;
   NSTypes = (

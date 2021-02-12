@@ -3,7 +3,7 @@
     ApplicationIcon = "atril.tiff";
     ApplicationName = Atril;
     NSExecutable = Atril;
-    NSIcon = "atril.tiff";
+    NSIcon = "Accessories-Document-Viewer.tiff";
     NSRole = Viewer;
     NSTypes = (
 	{

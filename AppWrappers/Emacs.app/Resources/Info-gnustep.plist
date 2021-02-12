@@ -1,7 +1,7 @@
 {
   NSExecutable = "Emacs";
   NSRole = "Editor";
-  NSIcon = "emacs.tiff";
+  NSIcon = "Emacs.tiff";
 	XAppWrapper = YES;
   NSTypes = (
     {

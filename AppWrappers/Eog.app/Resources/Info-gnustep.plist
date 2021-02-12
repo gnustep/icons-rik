@@ -1,6 +1,6 @@
 {
   NSExecutable = "eog";
-  NSIcon = "eog.tiff";
+  NSIcon = "Eog.tiff";
 	XAppWrapper = YES;
   NSTypes = (
     {

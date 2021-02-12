@@ -1,6 +1,6 @@
 {
   NSExecutable = "totem";
-  NSIcon = "totem.tiff";
+  NSIcon = "org.gnome.Totem.tiff";
   NSRole = Viewer;
   XAppWrapper = YES;
   NSTypes = (
