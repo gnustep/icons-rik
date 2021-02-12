@@ -9,6 +9,7 @@ I've created them using exclusively free software : Linux as OS, Inkscape for SV
 
 
 Note that the app icons used in the app_wrappers are not my work. They almost come from the Faenza icon theme for Gnome and keep their former licence.
+And I've imported most appicons from the Whitesur icon theme from vinceliuice to replace Faenza (wip). See https://github.com/vinceliuice/WhiteSur-icon-theme.
 
 
 
