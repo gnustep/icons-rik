@@ -1,6 +1,6 @@
 {
   NSExecutable = "qjackctl";
-  NSIcon = "qjackctl.tiff";
+  NSIcon = "QJackctl.tiff";
   NSRole = "Editor";
 	XAppWrapper = YES;
   NSTypes = (

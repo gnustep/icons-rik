@@ -1,6 +1,6 @@
 {
     NSExecutable = inkscape;
-    NSIcon = "inkscape.tiff";
+    NSIcon = "Inkscape.tiff";
     NSRole = "Editor";
 		XAppWrapper = YES;
     NSTypes = (

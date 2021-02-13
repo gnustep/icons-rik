@@ -1,6 +1,6 @@
 {
   NSExecutable = "ImageMagick";
-  NSIcon = "ImageMagick.tiff";
+  NSIcon = "Display-im6.q16.tiff";
 	XAppWrapper = YES;
   NSTypes = (
      {
