@@ -14,7 +14,10 @@
    viewBox="0 0 1024 1024"
    id="svg80"
    sodipodi:docname="user-trash.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/bertrand/Bureau/bertrand/GNUstep-build/BertrandDekoninck/RikIcons/PNG1024/Places/user-trash.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <metadata
      id="metadata84">
     <rdf:RDF>
@@ -40,9 +43,9 @@
      inkscape:window-height="767"
      id="namedview82"
      showgrid="false"
-     inkscape:zoom="0.37012621"
-     inkscape:cx="507.252"
-     inkscape:cy="643.12839"
+     inkscape:zoom="0.5234375"
+     inkscape:cx="512"
+     inkscape:cy="512"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
