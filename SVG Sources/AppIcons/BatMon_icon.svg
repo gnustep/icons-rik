@@ -304,24 +304,27 @@
     </filter>
     <linearGradient
        id="linearGradient994"
-       x1="28.542"
-       x2="28.542"
-       y1="58.41"
-       y2="6.4782"
+       x1="-1578.411"
+       x2="-2253.4016"
+       y1="1309.995"
+       y2="617.77429"
        gradientTransform="matrix(0.98938562,0,0,0.97152913,2449.7487,-403.35279)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#262626"
          offset="0"
-         id="stop80" />
+         id="stop80"
+         style="stop-color:#535353;stop-opacity:1" />
       <stop
          stop-color="#333"
-         offset=".50769"
-         id="stop82" />
+         offset="0.46746236"
+         id="stop82"
+         style="stop-color:#595959;stop-opacity:1" />
       <stop
          stop-color="#4a4a4a"
          offset="1"
-         id="stop84" />
+         id="stop84"
+         style="stop-color:#797979;stop-opacity:1" />
     </linearGradient>
   </defs>
   <mask
@@ -351,7 +354,7 @@
      rx="218.68611"
      ry="214.73924"
      id="rect96"
-     style="fill:url(#linearGradient994);stroke-width:62.99440765" />
+     style="fill:url(#linearGradient994);stroke-width:62.99440765;fill-opacity:1" />
   <g
      id="g126"
      style="fill-rule:evenodd"
