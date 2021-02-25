@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="FileIcon_genericText_1024.svg"
-   inkscape:export-filename="/home/bertrand/Bureau/RikIcones-0.1/Tiff48/FileIcons/FileIcon_genericSound.tiff.png"
-   inkscape:export-xdpi="71.982422"
-   inkscape:export-ydpi="71.982422"
+   sodipodi:docname="FileIcon_graphos_doc_icon_48.svg"
+   inkscape:export-filename="/home/bertrand/Bureau/bertrand/GNUstep-build/BertrandDekoninck/RikIcons/PNG1024/FileIcons/FileIcon_graphos_doc_icon_48.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    enable-background="new">
   <defs
      id="defs4">
@@ -75,27 +75,6 @@
          offset="1"
          id="stop4347" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4016"
-       inkscape:collect="always">
-      <stop
-         id="stop4018"
-         offset="0"
-         style="stop-color:#1c1919;stop-opacity:1" />
-      <stop
-         id="stop4020"
-         offset="1"
-         style="stop-color:#dedede;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4016"
-       id="linearGradient4014"
-       x1="769.15491"
-       y1="167.5484"
-       x2="585.12396"
-       y2="287.87631"
-       gradientUnits="userSpaceOnUse" />
     <filter
        id="filter4078"
        style="color-interpolation-filters:sRGB;"
@@ -597,6 +576,28 @@
        id="linearGradient3465"
        xlink:href="#linearGradient4925-6"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient950"
+       id="linearGradient952"
+       x1="543.74579"
+       y1="920.94098"
+       x2="483.47543"
+       y2="97.219955"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.30691906,-0.85734505,0.92481816,-0.33107361,331.82205,933.79236)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient950">
+      <stop
+         style="stop-color:#3f3737;stop-opacity:1"
+         offset="0"
+         id="stop946" />
+      <stop
+         style="stop-color:#716e6e;stop-opacity:1"
+         offset="1"
+         id="stop948" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -605,11 +606,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54882812"
-     inkscape:cx="512"
-     inkscape:cy="512"
+     inkscape:zoom="0.42871094"
+     inkscape:cx="523.51686"
+     inkscape:cy="622.19138"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1224"
      inkscape:window-height="677"
@@ -668,8 +669,8 @@
       <path
          sodipodi:nodetypes="ccsccccssssss"
          inkscape:connector-curvature="0"
-         d="M 621.9549,54.153232 864.38025,303.65669 M 165.65597,51.204018 622.14093,54.153232 c 0,0 16.24676,14.999375 21.74991,37.789862 l 2.45891,183.669966 c 144.72044,2.77737 170.66749,-15.32053 220.38986,29.62494 l 2.35937,667.3679 c 0.016,4.53735 -4.05278,8.19022 -9.08695,8.19022 l -694.35606,0 c -5.03417,0 -9.08695,-3.65284 -9.08695,-8.19022 l 0,-913.21167 c 0,-4.537377 4.05285,-8.216745 9.08695,-8.190212 z"
-         style="fill:url(#linearGradient3696);fill-opacity:1;stroke:#807a7a;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 621.9549,54.153232 864.38025,303.65669 M 165.65597,51.204018 622.14093,54.153232 c 0,0 16.24676,14.999375 21.74991,37.789862 l 2.45891,183.669966 c 144.72044,2.77737 170.66749,-15.32053 220.38986,29.62494 l 2.35937,667.3679 c 0.016,4.53735 -4.05278,8.19022 -9.08695,8.19022 H 165.65597 c -5.03417,0 -9.08695,-3.65284 -9.08695,-8.19022 V 59.39423 c 0,-4.537377 4.05285,-8.216745 9.08695,-8.190212 z"
+         style="fill:url(#linearGradient3696);fill-opacity:1;stroke:#807a7a;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3993-8" />
       <path
          inkscape:connector-curvature="0"
@@ -686,128 +687,59 @@
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path4142-9"
-         d="m 454.17696,56.221638 c 0,0 257.71533,265.837922 408.17748,387.857182 l 1.45521,-136.1086 c 0,0 -22.23947,-23.63334 -44.1551,-26.17245 -25.73987,-10.59139 -111.70201,-4.80075 -175.73378,-4.21057 L 641.56454,86.083497 621.20831,56.579813 z"
+         d="m 454.17696,56.221638 c 0,0 257.71533,265.837922 408.17748,387.857182 l 1.45521,-136.1086 c 0,0 -22.23947,-23.63334 -44.1551,-26.17245 -25.73987,-10.59139 -111.70201,-4.80075 -175.73378,-4.21057 L 641.56454,86.083497 621.20831,56.579813 Z"
          style="fill:url(#linearGradient3465);fill-opacity:1;stroke:none" />
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Texte"
-     style="display:inline">
+     inkscape:label="Line">
     <path
-       style="fill:url(#linearGradient4014);fill-opacity:1;stroke:none"
-       d="M 655.90507,266.64198 653.5457,92.048547"
-       id="path4006"
+       style="fill:none;stroke:url(#linearGradient952);stroke-width:33.10232162;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 760.97378,615.23031 C 629.20911,657.85718 406.59428,686.3959 322.64585,444.93164 251.50902,240.31788 424.37914,182.4387 465.68624,140.39166"
+       id="path891"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <rect
+       style="opacity:0.98000004;fill:#918f8e;fill-opacity:1;stroke:none;stroke-width:26.52189445;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect893-46"
+       width="66.183075"
+       height="66.183075"
+       x="-866.42529"
+       y="481.05978"
+       ry="9.6777639"
+       transform="rotate(-109.69675)" />
+    <rect
+       style="opacity:0.98000004;fill:#918f8e;fill-opacity:1;stroke:none;stroke-width:26.52189445;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect893-46-1"
+       width="66.183075"
+       height="66.183075"
+       x="-585.02252"
+       y="118.90665"
+       ry="9.6777639"
+       transform="rotate(-109.69675)" />
+    <rect
+       style="opacity:0.98000004;fill:#918f8e;fill-opacity:1;stroke:none;stroke-width:26.52189445;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect893-46-89"
+       width="66.183075"
+       height="66.183075"
+       x="-416.78024"
+       y="274.35703"
+       ry="9.6777639"
+       transform="rotate(-124.96598)"
+       inkscape:transform-center-x="-1.7494305"
+       inkscape:transform-center-y="1.7494305" />
+    <path
+       style="fill:none;stroke:#969492;stroke-width:15.96925926;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 417.08,710.41826 239.15507,226.75779"
+       id="path1009"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       x="517.96924"
-       y="898"
-       id="text5628"><tspan
-         sodipodi:role="line"
-         id="tspan5630"
-         x="549.2583"
-         y="898"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="222.60547"
-       y="163.3461"
-       id="text3240"><tspan
-         sodipodi:role="line"
-         id="tspan3242"
-         x="222.60547"
-         y="163.3461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb">GNUstep is a mature Framework, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="202.6461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3244">suited both for advanced GUI </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="241.94609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3246">desktop applications as well as</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="281.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3248"> server applications. </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="320.54608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3250">The framework closely follows </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="359.8461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3252">Apple's Cocoa (formerly NeXT's </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="399.14609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3254">OpenStep) APIs but is portable to a variety of </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="438.44608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3256">platforms and architectures.</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="477.74609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3264">Read more about the GNUstep project, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="517.04608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3276">or the people behind it.</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="556.34607"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3268"> </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="595.64606"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3280">GNUstep offers Development tools for </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="634.94611"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3270">command-line and GUI development, as well as </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="674.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3272">the foundations for a Desktop environment, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="713.54608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3274">which other projects can complete. </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="612.00275"
-       y="384.2934"
-       id="text3258"><tspan
-         sodipodi:role="line"
-         id="tspan3260"
-         x="636.33868"
-         y="384.2934"
-         style="font-size:140px;line-height:1.25;font-family:sans-serif"> </tspan><tspan
-         sodipodi:role="line"
-         id="tspan3262"
-         x="636.33868"
-         y="559.2934"
-         style="font-size:140px;line-height:1.25;font-family:sans-serif"> </tspan></text>
+    <path
+       d="m 232.26126,207.23984 a 21.578475,19.891325 70.303252 0 1 26.00033,13.61172 21.578475,19.891325 70.303252 0 1 -11.45463,27.02013 21.578475,19.891325 70.303252 0 1 -26.00033,-13.61172 21.578475,19.891325 70.303252 0 1 11.45463,-27.02013 z m 178.40478,488.0565 a 21.578475,19.891325 70.303252 0 1 26.00032,13.61171 21.578475,19.891325 70.303252 0 1 -11.45462,27.02012 21.578475,19.891325 70.303252 0 1 -26.00033,-13.6117 21.578475,19.891325 70.303252 0 1 11.45463,-27.02013 z"
+       style="opacity:1;fill:#918f8e;fill-opacity:1;stroke:none;stroke-width:15.45370388;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path1011-2"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -824,6 +756,6 @@
          x="508.41113"
          y="898"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:140px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080"
-         id="tspan4406">TEXT</tspan></text>
+         id="tspan4406">GDR</tspan></text>
   </g>
 </svg>

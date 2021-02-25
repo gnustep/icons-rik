@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="FileIcon_genericText_1024.svg"
+   sodipodi:docname="FileIcon_generic.svg"
    inkscape:export-filename="/home/bertrand/Bureau/RikIcones-0.1/Tiff48/FileIcons/FileIcon_genericSound.tiff.png"
    inkscape:export-xdpi="71.982422"
    inkscape:export-ydpi="71.982422"
@@ -75,27 +75,6 @@
          offset="1"
          id="stop4347" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4016"
-       inkscape:collect="always">
-      <stop
-         id="stop4018"
-         offset="0"
-         style="stop-color:#1c1919;stop-opacity:1" />
-      <stop
-         id="stop4020"
-         offset="1"
-         style="stop-color:#dedede;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4016"
-       id="linearGradient4014"
-       x1="769.15491"
-       y1="167.5484"
-       x2="585.12396"
-       y2="287.87631"
-       gradientUnits="userSpaceOnUse" />
     <filter
        id="filter4078"
        style="color-interpolation-filters:sRGB;"
@@ -606,7 +585,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.54882812"
-     inkscape:cx="512"
+     inkscape:cx="143.94306"
      inkscape:cy="512"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -632,7 +611,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
         <dc:creator>
@@ -689,125 +668,6 @@
          d="m 454.17696,56.221638 c 0,0 257.71533,265.837922 408.17748,387.857182 l 1.45521,-136.1086 c 0,0 -22.23947,-23.63334 -44.1551,-26.17245 -25.73987,-10.59139 -111.70201,-4.80075 -175.73378,-4.21057 L 641.56454,86.083497 621.20831,56.579813 z"
          style="fill:url(#linearGradient3465);fill-opacity:1;stroke:none" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Texte"
-     style="display:inline">
-    <path
-       style="fill:url(#linearGradient4014);fill-opacity:1;stroke:none"
-       d="M 655.90507,266.64198 653.5457,92.048547"
-       id="path4006"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       x="517.96924"
-       y="898"
-       id="text5628"><tspan
-         sodipodi:role="line"
-         id="tspan5630"
-         x="549.2583"
-         y="898"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#4d4d4d"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="222.60547"
-       y="163.3461"
-       id="text3240"><tspan
-         sodipodi:role="line"
-         id="tspan3242"
-         x="222.60547"
-         y="163.3461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb">GNUstep is a mature Framework, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="202.6461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3244">suited both for advanced GUI </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="241.94609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3246">desktop applications as well as</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="281.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3248"> server applications. </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="320.54608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3250">The framework closely follows </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="359.8461"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3252">Apple's Cocoa (formerly NeXT's </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="399.14609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3254">OpenStep) APIs but is portable to a variety of </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="438.44608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3256">platforms and architectures.</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="477.74609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3264">Read more about the GNUstep project, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="517.04608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3276">or the people behind it.</tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="556.34607"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3268"> </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="595.64606"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3280">GNUstep offers Development tools for </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="634.94611"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3270">command-line and GUI development, as well as </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="674.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3272">the foundations for a Desktop environment, </tspan><tspan
-         sodipodi:role="line"
-         x="222.60547"
-         y="713.54608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:130.99999428%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';letter-spacing:0px;writing-mode:lr-tb"
-         id="tspan3274">which other projects can complete. </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="612.00275"
-       y="384.2934"
-       id="text3258"><tspan
-         sodipodi:role="line"
-         id="tspan3260"
-         x="636.33868"
-         y="384.2934"
-         style="font-size:140px;line-height:1.25;font-family:sans-serif"> </tspan><tspan
-         sodipodi:role="line"
-         id="tspan3262"
-         x="636.33868"
-         y="559.2934"
-         style="font-size:140px;line-height:1.25;font-family:sans-serif"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
