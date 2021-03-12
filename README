@@ -1,15 +1,15 @@
-This set of icons, the app-wrappers are to be used in GNUstep with the rik.theme. 
+This set of icons, the app-wrappers are to be used in GNUstep with the rik.theme and Sombre.theme. 
 See https://github.com/AlessandroSangiuliano/rik.theme.
+    https://github.com/BertrandDekoninck/Sombre.theme.
 
 The icons used in rik.theme are the 48x48 tiff files. The SVG ones are the original files I made.
-They are released under MIT Licence and CreativeCommons (http://creativecommons.org/licenses/by/3.0/), except for the GNUstep logo which is CC by/sa/3.0.
+They are released under CreativeCommons (http://creativecommons.org/licenses/by/3.0/ or 4.0).
 
 
-I've created them using exclusively free software : Linux as OS, Inkscape for SVG, Gimp, Pikopixel and LaternaMagica for png/tiff creation, Iceweasel for web browsing, GNUstep/Gworkspace/Windowmaker for desktop.
+I've created them using exclusively free software : Linux as OS, Inkscape for SVG, Gimp, Pikopixel and LaternaMagica for png/tiff creation, Firefox for web browsing, GNUstep/Gworkspace/Windowmaker for desktop.
 
 
-Note that the app icons used in the app_wrappers are not my work. They almost come from the Faenza icon theme for Gnome and keep their former licence.
-And I've imported most appicons from the Whitesur icon theme from vinceliuice to replace Faenza (wip). See https://github.com/vinceliuice/WhiteSur-icon-theme.
+Note that the app icons used in the app_wrappers are not my work. I've imported most appicons from the Whitesur icon theme from vinceliuice. See https://github.com/vinceliuice/WhiteSur-icon-theme.
 
 
 
