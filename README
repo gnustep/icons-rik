@@ -1,8 +1,13 @@
 This set of icons, the app-wrappers are to be used in GNUstep with the rik.theme and Sombre.theme. 
 See https://github.com/AlessandroSangiuliano/rik.theme.
-    https://github.com/BertrandDekoninck/Sombre.theme.
+    https://github.com/GNUstep/Sombre.theme.
 
-The icons used in rik.theme are the 48x48 tiff files. The SVG ones are the original files I made.
+The icons used in rik.theme are the 48x48 tiff files before this commit : https://github.com/BertrandDekoninck/RikIcons/commit/2c48eca659de81dbd31d6f94dbacba342144d0c5
+The icons used in Sombre.theme are the 48x48 tiff files after that commit. I should have done another branch or repo, and I'm now confused to say I didn't.
+The first part of this job was inspired by the Faenza icon theme and of course Macos.
+The second part is inspired by the WhiteSur icon theme.
+
+The SVG ones are the original files I made.
 They are released under CreativeCommons (http://creativecommons.org/licenses/by/3.0/ or 4.0).
 
 
